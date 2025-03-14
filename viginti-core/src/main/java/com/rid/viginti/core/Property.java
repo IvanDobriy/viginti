@@ -1,4 +1,4 @@
-package com.rid.virginti.core;
+package com.rid.viginti.core;
 
 public interface Property<T> {
     T get();
