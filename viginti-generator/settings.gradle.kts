@@ -19,3 +19,6 @@ dependencyResolutionManagement {
         }
     }
 }
+
+
+includeBuild("../viginti-core")
