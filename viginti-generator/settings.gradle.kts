@@ -15,7 +15,7 @@ enableFeaturePreview("VERSION_CATALOGS")
 dependencyResolutionManagement {
     versionCatalogs {
         create("libs") {
-            from(files("../virginti-builder/libs.versions.toml"))
+            from(files("../viginti-builder/libs.versions.toml"))
         }
     }
 }
